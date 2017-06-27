@@ -1,13 +1,6 @@
-def one
-	28
+
+def greg(a,s)
+	p a / s
 end
 
-def two
-	7
-end
-
-def divide
-	one / two
-end
-
-p divide
+greg(28,7)
