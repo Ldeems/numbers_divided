@@ -1,10 +1,10 @@
 
-def greg(a,s)
-	if s == 0
-		p "cannot divid by 0"
+def divided(a,x)
+	if x == 0
+		 "cannot divid by 0"
 	else	
-		p a / s
+		 a / x
 	end
 end
 
-greg(28,0)
+divided(28,7)
